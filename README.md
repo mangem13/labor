@@ -1,4 +1,4 @@
-# Labor 31.10.20177 (Gruppe 2)
+# Labor 31.10.2017 (Gruppe 2)
 
 **Teilnehmer:**  
 Nebel, Mandl, Mörth, Martinak, Platzer, Muri, Nabernik, Köhler
